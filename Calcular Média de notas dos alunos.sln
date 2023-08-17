@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular Média de notas dos alunos", "Calcular Média de notas dos alunos\Calcular Média de notas dos alunos.csproj", "{063CC75E-B96B-4AA8-8388-9857BDA7C85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063CC75E-B96B-4AA8-8388-9857BDA7C85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063CC75E-B96B-4AA8-8388-9857BDA7C85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063CC75E-B96B-4AA8-8388-9857BDA7C85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063CC75E-B96B-4AA8-8388-9857BDA7C85E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695547FA-FAD4-4F6A-9258-289A2BC2F7DF}
+	EndGlobalSection
+EndGlobal
